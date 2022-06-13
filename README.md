@@ -1,4 +1,4 @@
-#INFO
+# INFO
 
 After clicking on the button, the text is displayed. This is an example where we can also hide a window after pressing 'Escape'
 #
